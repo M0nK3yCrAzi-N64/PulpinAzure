@@ -1,0 +1,33 @@
+D:\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.deps.json
+D:\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.dll
+D:\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.pdb
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.AssemblyInfoInputs.cache
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.AssemblyInfo.cs
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.dll
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\refint\Capa.Entity.dll
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.pdb
+D:\PROYECTOS\Capa.Entity\obj\Debug\net6.0\ref\Capa.Entity.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.deps.json
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.pdb
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.AssemblyInfoInputs.cache
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.AssemblyInfo.cs
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.csproj.CoreCompileInputs.cache
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\refint\Capa.Entity.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.pdb
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Entity\obj\Debug\net6.0\ref\Capa.Entity.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.deps.json
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\bin\Debug\net6.0\Capa.Entity.pdb
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.AssemblyInfoInputs.cache
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.AssemblyInfo.cs
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.csproj.CoreCompileInputs.cache
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\refint\Capa.Entity.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\Capa.Entity.pdb
+D:\1.15 toastr bien\PROYECTOS\Capa.Entity\obj\Debug\net6.0\ref\Capa.Entity.dll

@@ -1,0 +1,51 @@
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.deps.json
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.dll
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.pdb
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Datos.dll
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Entity.dll
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Datos.pdb
+D:\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Entity.pdb
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.csproj.AssemblyReference.cache
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.AssemblyInfoInputs.cache
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.AssemblyInfo.cs
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Neg.650074CE.Up2Date
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.dll
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\refint\Capa.Negocio.dll
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.pdb
+D:\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\ref\Capa.Negocio.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.deps.json
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.pdb
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Datos.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Entity.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Datos.pdb
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Entity.pdb
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.csproj.AssemblyReference.cache
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.AssemblyInfoInputs.cache
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.AssemblyInfo.cs
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.csproj.CoreCompileInputs.cache
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Neg.650074CE.Up2Date
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\refint\Capa.Negocio.dll
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.pdb
+D:\CRUD MEJORADO PROYECTOS\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\ref\Capa.Negocio.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.deps.json
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Negocio.pdb
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Datos.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Entity.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Datos.pdb
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\bin\Debug\net6.0\Capa.Entity.pdb
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.csproj.AssemblyReference.cache
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.AssemblyInfoInputs.cache
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.AssemblyInfo.cs
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.csproj.CoreCompileInputs.cache
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Neg.650074CE.Up2Date
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\refint\Capa.Negocio.dll
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\Capa.Negocio.pdb
+D:\1.15 toastr bien\PROYECTOS\Capa.Negocio\obj\Debug\net6.0\ref\Capa.Negocio.dll
